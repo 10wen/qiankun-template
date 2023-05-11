@@ -1,9 +1,9 @@
 # qiankun-template
 ## [微前端 qiankun](https://developer.aliyun.com/article/1116714#slide-10)
 
-- [x] vue2
-- [x] vue3
-- [x] react
+- [x] vue2-app
+- [x] vue3-app
+- [x] react-app
 - [x] main-app(vue3)
 
 1. step 1 - first terminal
